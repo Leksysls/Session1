@@ -1,6 +1,6 @@
 # Заголовок проекта
 
-Один абзац описания проекта находится здесь
+Фишермагаз
 
 ## Начало работы
 
@@ -34,6 +34,6 @@
 
 ## Авторы
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* Андрюков Алексей
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
